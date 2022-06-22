@@ -1,0 +1,17 @@
+.LoginSize{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+@media screen and (max-width: 1000px){
+    .LoginSize{
+        margin-left: 33%;
+        width: 50%;
+    }
+}
+@media screen and (max-width: 700px){
+    .LoginSize{
+        margin-left: 20%;
+        width: 50%;
+    }
+}
